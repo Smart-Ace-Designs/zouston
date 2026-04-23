@@ -1,2 +1,2 @@
-# zouston
-An Astro Houston inspired theme for the Zed editor
+# Zouston
+An [Astro Houston](https://github.com/withastro/houston-vscode) inspired theme for the Zed editor.
