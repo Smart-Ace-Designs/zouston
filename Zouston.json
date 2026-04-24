@@ -7,6 +7,15 @@
       "name": "Zouston",
       "appearance": "dark",
       "style": {
+        "error.background": "#1e2026",
+        "warning.background": "#1e2026",
+        "info.background": "#1e2026",
+        "hint.background": "#1e2026",
+        "error.border": "#3c4047",
+        "warning.border": "#3c4047",
+        "info.border": "#3c4047",
+        "hint.border": "#3c4047",
+        
         "background": "#17191e",
         "surface.background": "#1e2026",
         "panel.background": "#1c1e23",
