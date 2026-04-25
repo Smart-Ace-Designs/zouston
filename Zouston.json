@@ -23,7 +23,7 @@
         "element.hover": "#2b2e36",
         "element.active": "#2f323a",
         "element.selected": "#2f323a",
-        "text": "#eef0f9",
+        "text": "#dadce6",
         "text.muted": "#c7c7c7",
         "text.placeholder": "#808080",
         "icon": "#eef0f9",
