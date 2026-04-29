@@ -74,6 +74,9 @@
           "punctuation": {
             "color": "#eef0f9"
           },
+          "punctuation.special": {
+            "color": "#54b9ff"
+          },
           "string": {
             "color": "#ffd493"
           },
