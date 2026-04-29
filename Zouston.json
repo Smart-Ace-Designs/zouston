@@ -77,6 +77,9 @@
           "punctuation.special": {
             "color": "#54b9ff"
           },
+          "punctuation.bracket": {
+            "color": "#ffd493"
+          },
           "string": {
             "color": "#ffd493"
           },
@@ -116,6 +119,9 @@
           },
           "tag": {
             "color": "#54b9ff"
+          },
+          "tag.delimiter": {
+            "color": "#dadce6"
           },
           "attribute": {
             "color": "#4bf3c8"
