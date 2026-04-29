@@ -2,7 +2,7 @@
 An [Astro Houston](https://github.com/withastro/houston-vscode) inspired theme for the Zed editor.
 
 <p align="center">
-  <img width="1460" height="654" alt="Zouston vs Houston" src="https://github.com/user-attachments/assets/21947822-2f18-4ca7-b232-41121050cde4" />
+  <img width="1460" height="654" alt="Zouston vs Houston" src="https://github.com/user-attachments/assets/7c030825-f221-4c21-abe5-d9fb8ae10a7d" />
   <br>
   <em>Left: Zouston (Zed) — Right: Houston (VS Code)</em>
 </p>
