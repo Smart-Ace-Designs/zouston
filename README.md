@@ -8,13 +8,6 @@ An [Astro Houston](https://github.com/withastro/houston-vscode) inspired theme f
 </p>
 
 ## Enhancements Needed
-
-- **Fix color of HTML tag brackets** (`<` `>`)  
-  These should use the light “whitish” Houston‑style punctuation color.
-
-- **Fix color of curly braces** (`{` `}`) when **Color Brackets** is enabled  
-  Expression braces should use the warm yellow Houston applies to embedded/templated punctuation.
-
 - **Fix color of destructured identifiers** (`title`, `description`)  
   These are binding identifiers created by object destructuring and should match Houston’s variable color.
 
