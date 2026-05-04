@@ -13,3 +13,6 @@ An [Astro Houston](https://github.com/withastro/houston-vscode) inspired theme f
 
 - **Fix color of the `Astro` namespace identifier**  
   `Astro` is a namespace / module object and should receive the same color Houston applies to global framework objects.
+
+- **Fix color of Astro (and other framework) components within the _Component Template_ section**  
+  Imported components, such as `ClientRouter`, should receive the same color Houston applies to these components.
